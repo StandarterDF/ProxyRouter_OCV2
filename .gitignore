@@ -1,0 +1,11 @@
+# временные файлы
+tmp/
+*.log
+proxy-router-debug.log
+
+# Node
+node_modules/
+
+# редакторы и бэкапы
+*.bak
+.vscode/
